@@ -1,0 +1,5 @@
+toothbrush                          6.93
+  0.99 * 7
+5 for 10(toothbrush)                5.05
+
+Total:                             11.98
